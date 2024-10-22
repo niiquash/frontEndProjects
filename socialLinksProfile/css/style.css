@@ -79,6 +79,11 @@ html {
   font-size: 0.9rem;
 }
 
+.card__ul li:hover {
+  background-color: rgb(164, 205, 50);
+  color: black;
+}
+
 /* FOOTER */
 .attribution {
   font-size: 11px;
